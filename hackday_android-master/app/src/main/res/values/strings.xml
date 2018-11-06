@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hackday_final</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+</resources>

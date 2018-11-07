@@ -21,7 +21,7 @@
         <activity android:name=".UserRegistrationActivity" />
         <activity
             android:name=".MainPageActivity"
-            android:label="@string/title_activity_main_page"></activity>
+            android:label="@string/title_activity_main_page" />
     </application>
 
 </manifest>

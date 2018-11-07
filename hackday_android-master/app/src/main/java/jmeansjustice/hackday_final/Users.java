@@ -11,7 +11,7 @@ public class Users {
 
     }
 
-    public Users(String mName, String mSurname, String mGender, String mAge, String mPhone) {
+    Users(String mName, String mSurname, String mGender, String mAge, String mPhone) {
         this.mName = mName;
         this.mSurname = mSurname;
         this.mGender = mGender;
